@@ -4,32 +4,36 @@
 
 - Database has table names, employee, role and department
 - This application asks a user to chose from list and based on the user choice
-- What problem does it solve?
+- User can view, add and update employee, role and department data
 - What did you learn?
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 
-
 ## Installation
-- npm i on terminal 
+- npm i on terminal to install all required packages
 - psql -U postgres with password test
-- go to 
-
+- go to the db directory and \i schema.sql to create database and tables
+- do the same to seeds.sql to add data into the database
 
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+ - in terminal, type node server.js and enter
+ - user will see the choices: 
+    - view all departments
+    - view all roles
+    - view all employees
+    - add a department
+    - add a role
+    - add an employee
+    - update an employee
+ - Then query returns the data or insert/update data
+ - Please see demo video for how to do it
 
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
 
 ---
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
