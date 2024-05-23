@@ -5,7 +5,6 @@
 - Database has table names, employee, role and department
 - This application asks a user to chose from list and based on the user choice
 - User can view, add and update employee, role and department data
-- What did you learn?
 
 ## Table of Contents
 
@@ -31,9 +30,9 @@
  - Then query returns the data or insert/update data
  - Please see demo video for how to do it
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    
+    ![alt text](images/screenshot.png)
+    screenshot of initial database set up 
 
 ---
 
