@@ -10,6 +10,7 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Url](#url)
 
 ## Installation
 - npm i on terminal to install all required packages
@@ -34,5 +35,9 @@
     ![alt text](images/screenshot.png)
     screenshot of initial database set up 
 
+## Url
+ - github  repository : https://github.com/namahage1/Employee-Tracker.git
+ - video demo : https://drive.google.com/file/d/11tcABru0l-jdTW9vyGjWTxu42XtTzSWB/view
+ - video demo 2: https://drive.google.com/file/d/1yrygmhS74-pRSxHJH2Cncrx4No2eeBpt/view (first link does not include the role added so recorded again)
 ---
 
