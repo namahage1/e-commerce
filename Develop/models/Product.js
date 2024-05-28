@@ -27,10 +27,10 @@ Product.init(
     },
     stock:{
       type:DataTypes.INTEGER,
-      
+
     },
     category_id:{
-
+      
     },
 
   },
