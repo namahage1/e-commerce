@@ -18,8 +18,10 @@
 
 ## Usage
 
-Git repository URL:https://github.com/namahage1/e-commerce.git
-Video Demo URL: 
+- Git repository URL:https://github.com/namahage1/e-commerce.git
+- Video Demo URL: https://watch.screencastify.com/v/rtwtTJ4TyqBEXPryfI9D
+-  get post put delete  https://app.screencastify.com/v3/watch/FH8YhdHKkJOgUNEz3rIq
+-  UPDATE ALL 3 TABLES  https://app.screencastify.com/v3/watch/fImt1Lscenm7wkXQK9ON
     
 ![screenshot1](./screenshots/psql.png) 
 ![screenshot2](./screenshots/npm%20run%20seed.png) 
